@@ -15,9 +15,9 @@ mlst_pipeline/
    ```
 2. documentation/
    ```
-      mlst_st_analysis_documentation.pdf;
+      mlst_st_analysis documentation.pdf;
    
-      mlst_ic_analysis_documentation.pdf
+      mlst_ic_analysis documentation.pdf
    ```
 
 # Scripts:
